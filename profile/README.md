@@ -13,6 +13,8 @@
     <a href="https://github.com/orgs/projetao-cultura/projects/1/views/6"><strong>Backlog</strong></a>
     &bull;
     <a href="https://github.com/orgs/projetao-cultura/projects/1/views/3"><strong>Sprint Atual</strong></a>
+    &bull;
+    <a href="https://diegocalixto.notion.site/Projet-o-2bb9266221f3457eb7bc0b51e4bbf7ff"><strong>Notion</strong></a>
     <br>
     <br>
     <a href="https://github.com/orgs/projetao-cultura/projects/1/views/8"><strong>Board de Front</strong></a>
